@@ -1,5 +1,8 @@
 # 🛒 E-Commerce Order Fulfillment Efficiency Analysis
 
+An end-to-end **Data Analytics project** using the Olist Brazilian E-Commerce dataset to analyze **order fulfillment performance**, identify **delivery bottlenecks, high-risk states and sellers, and slow-performing product categories**, evaluate **delivery-estimate accuracy**, and measure how **late deliveries relate to customer ratings** through Python, SQL, statistical analysis, and Power BI.
+
+
 ## 📌 Overview
 
 A data analytics project using the **Olist Brazilian E-Commerce Public Dataset** to evaluate order fulfillment performance, identify operational bottlenecks, and examine the relationship between delivery performance and customer satisfaction.
